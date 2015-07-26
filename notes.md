@@ -50,3 +50,13 @@ Iniciar con la consola
 
 Para entrar a la consola se utiliza $ irb y de esa forma entramos a la consola.
 
+
+Sintaxis en Ruby: Objetos y Arreglos
+------------------------------------
+
+Ver video ...
+
+
+
+
+
