@@ -48,6 +48,9 @@ p alimentos[-1] # El ultimo elemento es un slice al final
 
 puts "-----"
 
+
+# Using : mean to symbols
+
 pollos = []
 pollos[0] = :verde 
 
