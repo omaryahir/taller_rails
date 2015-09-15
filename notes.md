@@ -54,6 +54,16 @@ Para entrar a la consola se utiliza $ irb y de esa forma entramos a la consola.
 Sintaxis en Ruby: Objetos y Arreglos
 ------------------------------------
 
+Los arreglos también son objetos por ejemplo podemos utilizar:
+[].class
+[].size
+
+
+Una forma rápida de agregar elementos en el array es utilizando:
+arreglo = []
+arreglo << "dato"
+
+
 Ver video ...
 
 
